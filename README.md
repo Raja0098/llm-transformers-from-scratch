@@ -51,9 +51,4 @@ This project reflects my:
 
 ---
 
-├── assignment_1_transformer_encoder.ipynb
-├── assignment_2_transformer_decoder.ipynb
-├── assignment_3_machine_translation.ipynb
-├── assignment_4_gpt_causal_lm.ipynb
-└── assignment_5_bert_mlm.ipynb
 
